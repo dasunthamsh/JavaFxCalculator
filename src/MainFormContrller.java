@@ -1,2 +1,2 @@
-public class MainFormContrller {  //cccg
+public class MainFormContrller {
 }
