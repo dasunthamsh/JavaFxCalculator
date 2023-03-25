@@ -7,4 +7,9 @@ public class MainFormContrller {
     public Button btn4;
     public Button btn5;
     public Button btn6;
+    public Button btn7  ;
+    public Button btn8;
+
+
+//    dasub
 }
