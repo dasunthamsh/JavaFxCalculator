@@ -74,7 +74,7 @@
          <font>
             <Font size="25.0" />
          </font></Button>
-      <Button layoutX="223.0" layoutY="581.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100; -fx-background-color: #2d3436;" text="." textFill="WHITE">
+      <Button fx:id="btnDot" layoutX="223.0" layoutY="581.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100; -fx-background-color: #2d3436;" text="." textFill="WHITE">
          <font>
             <Font size="25.0" />
          </font>
