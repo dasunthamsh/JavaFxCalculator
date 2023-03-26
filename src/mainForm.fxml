@@ -14,7 +14,7 @@
       <Button fx:id="btn4" layoutX="22.0" layoutY="277.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100;" text="4" />
       <Button layoutX="322.0" layoutY="277.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100;" text="X" />
       <Button fx:id="btn8" layoutX="126.0" layoutY="379.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100;" text="8" />
-      <Button layoutX="223.0" layoutY="379.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100;" text="9" />
+      <Button fx:id="btn9" layoutX="223.0" layoutY="379.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100;" text="9" />
       <Button fx:id="btn7" layoutX="22.0" layoutY="379.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100;" text="7" />
       <Button layoutX="322.0" layoutY="379.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100;" text="-" />
       <Button layoutX="126.0" layoutY="483.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100;" text="1" />
