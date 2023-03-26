@@ -11,4 +11,5 @@ public class MainFormContrller {
     public Button btn8;
     public Button btn9;
     public Button btn0;
+    public Button btnAc;
 }
