@@ -16,4 +16,6 @@ public class MainFormContrller {
     public Button btnDevtion;
     public Button btnX;
     public Button btnReduce;
+    public Button btnPlus;
+    public Button btnEq;
 }
