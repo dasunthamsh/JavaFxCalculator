@@ -38,7 +38,7 @@
          <cursor>
             <Cursor fx:constant="CLOSED_HAND" />
          </cursor></Button>
-      <Button layoutX="322.0" layoutY="277.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100; -fx-background-color: #f39c12;" text="X" textFill="WHITE">
+      <Button fx:id="btnX" layoutX="322.0" layoutY="277.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100; -fx-background-color: #f39c12;" text="X" textFill="WHITE">
          <font>
             <Font size="25.0" />
          </font></Button>
@@ -54,7 +54,7 @@
          <font>
             <Font size="25.0" />
          </font></Button>
-      <Button layoutX="322.0" layoutY="379.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100; -fx-background-color: #f39c12;" text="-" textFill="WHITE">
+      <Button fx:id="btnReduce" layoutX="322.0" layoutY="379.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100; -fx-background-color: #f39c12;" text="-" textFill="WHITE">
          <font>
             <Font size="25.0" />
          </font></Button>
@@ -62,7 +62,7 @@
          <font>
             <Font size="25.0" />
          </font></Button>
-      <Button layoutX="223.0" layoutY="483.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100; -fx-background-color: #2d3436;" text="3" textFill="WHITE">
+      <Button fx:id="btn3" layoutX="223.0" layoutY="483.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="85.0" style="-fx-background-radius: 100; -fx-background-color: #2d3436;" text="3" textFill="WHITE">
          <font>
             <Font size="25.0" />
          </font></Button>
